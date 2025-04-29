@@ -1,18 +1,34 @@
-<h1 align="center">Hi 👋, I'm Axmadjon Qaxxorov</h1>
-<h3 align="center">A passionate developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axmadjonqaxxorovc&label=Profile%20views&color=0e75b6&style=flat" alt="axmadjonqaxxorovc" /> </p>
+# Hi, I'm Qaxxorov! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axmadjonqaxxorovc" alt="axmadjonqaxxorovc" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/axmadjonqaxxorovc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axmadjonqaxxorovc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/axmadjonqaxxorovc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="axmadjonqaxxorovc" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+🐍 I'm a Python Developer...
+I'm a passionate learner stepping into the world of code, one line at a time.
+I work mostly with Python, diving into Django for web development, and building Telegram bots using Aiogram.
+I'm also learning HTML and CSS to make things not just work — but look beautiful too.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axmadjonqaxxorovc&show_icons=true&locale=en" alt="axmadjonqaxxorovc" /></p>
+Though I'm still growing, I'm focused, curious, and always ready to build something new.
+Whether it's solving bugs or launching bots, I do it with a smile 😄
 
+
+### 🌐 Find me here:
+
+- 🎥 [YouTube](https://youtube.com/@axmadjonqaxxorovc)
+- ✈️ [Telegram](https://t.me/axmadjonqaxxorovc)
+- 📸 [Instagram](https://instagram.com/axmadjonqaxxorovc)
+- 🔗 [Taplink](https://taplink.cc/qaxxorovc)
+
+## FAQ
+
+**Who am I?**
+
+*I'm Axmadjon Qaxxorov*
+
+*HACKALITY*
+
+*AKURO*
+
+**All of these are me.**
+![Kung Fu Panda GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hidjF1a2ZzY2s3cGd6NzVkZnU5aHR6anlpYmdnZmJ2ZTI5dTB1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MSeKYlDNu4cFX5NW6U/giphy.gif)
