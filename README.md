@@ -20,6 +20,7 @@ Whether it's solving bugs or launching bots, I do it with a smile 😄
 - 📸 [Instagram](https://instagram.com/axmadjonqaxxorovc)
 - 🔗 [Taplink](https://taplink.cc/qaxxorovc)
 
+
 ## FAQ
 
 **Who am I?**
@@ -31,4 +32,7 @@ Whether it's solving bugs or launching bots, I do it with a smile 😄
 *AKURO*
 
 **All of these are me.**
-![Kung Fu Panda GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hidjF1a2ZzY2s3cGd6NzVkZnU5aHR6anlpYmdnZmJ2ZTI5dTB1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MSeKYlDNu4cFX5NW6U/giphy.gif)
+
+### 🐼 Kung Fu Panda Moment
+
+<img src="https://github.com/axmadjonqaxxorovc/axmadjonqaxxorovc/blob/main/kung_fu_panda_gif.gif?raw=true" width="300" alt="Kung Fu Panda GIF" />
