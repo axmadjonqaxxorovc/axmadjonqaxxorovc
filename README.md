@@ -15,9 +15,9 @@ Whether it's solving bugs or launching bots, I do it with a smile 😄
 
 ### 🌐 Find me here:
 
-- 🎥 [YouTube](https://youtube.com/@axmadjonqaxxorovc)
-- ✈️ [Telegram](https://t.me/axmadjonqaxxorovc)
-- 📸 [Instagram](https://instagram.com/axmadjonqaxxorovc)
+- 🎥 [YouTube](https://youtube.com/@uzbecode)
+- ✈️ [Telegram](https://t.me/uzbecode)
+- 📸 [Instagram](https://instagram.com/uzbecode)
 - 🔗 [Taplink](https://taplink.cc/qaxxorovc)
 
 
